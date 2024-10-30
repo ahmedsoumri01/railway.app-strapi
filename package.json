@@ -16,6 +16,7 @@
     "@strapi/provider-email-nodemailer": "^5.1.1",
     "@strapi/provider-upload-cloudinary": "5.1.0",
     "@strapi/strapi": "5.1.0",
+    "cloudinary": "^2.5.1",
     "pg": "8.8.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
